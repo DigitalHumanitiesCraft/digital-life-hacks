@@ -12,7 +12,6 @@
 Fügt Text ohne Formatierung ein.
 
 💡 **Pro-Tipp:** Unverzichtbar für einheitliche Formatierung in Dokumenten.  
-⚠️ **Hinweis:** Unter Windows musst du möglicherweise den Zwischenablage-Verlauf in den Einstellungen aktivieren.
 
 ---
 
@@ -62,6 +61,7 @@ Fügt Text ohne Formatierung ein.
 Zeigt den Verlauf deiner Zwischenablage an.
 
 💡 **Pro-Tipp (OCR):** Mit **Adobe Acrobat Reader**, **OneNote** oder anderen Tools kannst du Text aus PDFs und Bildern extrahieren. Auf dem Mac beherrscht „Vorschau“ (Preview) in einigen Versionen ebenfalls OCR. Anschließend kannst du den erkannten Text direkt kopieren und in KI-Chats einfügen.
+⚠️ **Hinweis:** Unter Windows musst du möglicherweise den Zwischenablage-Verlauf in den Einstellungen aktivieren.
 
 ---
 
@@ -103,7 +103,6 @@ Erstellt einen Screenshot eines ausgewählten Bereichs.
 Pastes text without formatting.
 
 💡 **Pro tip:** Essential for consistent formatting in documents.  
-⚠️ **Note:** On Windows, you may need to enable clipboard history in Settings.
 
 ---
 
@@ -153,6 +152,7 @@ Pastes text without formatting.
 Access your clipboard history.
 
 💡 **Pro tip (OCR):** Tools like **Adobe Acrobat Reader**, **OneNote**, or others can extract text from PDFs and images. On Mac, Preview supports OCR in some versions. You can then copy that text right into AI chats.
+⚠️ **Note:** On Windows, you may need to enable clipboard history in Settings.
 
 ---
 
