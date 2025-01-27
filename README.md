@@ -8,13 +8,29 @@ Paste text without formatting.
 
 💡 **Pro tip:** Essential for maintaining document consistency
 
+## Quick Selection
+**Double-click:** Select a single word  
+**Triple-click:** Select entire paragraph  
+
+💡 **Pro tip:** Use Shift key for extended selection control
+
+## Quick Navigation
+**F2:** Rename selected file/folder  
+**CTRL/CMD + L:** Jump to browser address bar & Windows Explorer path  
+**CTRL/CMD + Arrow:** Jump between words  
+**CTRL/CMD + Backspace:** Delete whole words
+
+Navigate faster with keyboard shortcuts.
+
+💡 **Pro tip:** File paths can be copied with CTRL/CMD + C when selected
+
 ## Markdown Copy/Paste
-**Windows/Mac Copy:** CTRL/CMD + M  
-**Windows/Mac Paste:** CTRL/CMD + SHIFT + M
+Now available in Google Docs!
+- Right-click to copypaste as Markdown
+- Perfect for documentation and AI interactions
+- Preserves formatting when pasting into Markdown editors
 
-Convert text to/from Markdown format.
-
-💡 **Pro tip:** Perfect for AI chat interactions and documentation
+💡 **Pro tip:** Great for copying code blocks and formatted text from AI chats
 
 ## Clipboard History
 **Windows:** Windows Key + V  
