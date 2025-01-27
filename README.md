@@ -1,138 +1,188 @@
-[Deutsch](#de) | [English](#en) 
+# Digital Life Hacks Cheat Sheet
+
+[Deutsch](#de) | [English](#en)
+
+---
 
 <a id="de"></a>
-# Digital Life Hacks Cheat Sheet
-## Formatierungsfrei Einfügen
+
+### Formatierungsfrei Einfügen
 **Windows:** STRG + SHIFT + V  
-**Mac:** CMD + SHIFT + V
+**Mac:** CMD + SHIFT + V  
+Fügt Text ohne Formatierung ein.
 
-Text ohne Formatierung einfügen.
+💡 **Pro-Tipp:** Unverzichtbar für einheitliche Formatierung in Dokumenten.  
+⚠️ **Hinweis:** Unter Windows musst du möglicherweise den Zwischenablage-Verlauf in den Einstellungen aktivieren.
 
-💡 **Pro-Tipp:** Unverzichtbar für einheitliche Dokumentformatierung
+---
 
-## Schnellauswahl
-**Doppelklick:** Einzelnes Wort auswählen  
-**Dreifachklick:** Ganzen Absatz auswählen  
+### Schnellauswahl
+- **Doppelklick:** Wählt ein einzelnes Wort aus  
+- **Dreifachklick:** Markiert einen ganzen Absatz  
 
-💡 **Pro-Tipp:** Shift-Taste für erweiterte Auswahlkontrolle nutzen
+💡 **Pro-Tipp:** Halte die **Shift-Taste** gedrückt, um die Auswahl zu erweitern.
 
-## Schnellnavigation
-**F2:** Ausgewählte Datei/Ordner umbenennen  
-**STRG/CMD + L:** Zur Adressleiste in Browser & Windows Explorer springen  
-**STRG/CMD + Pfeiltaste:** Zwischen Wörtern springen  
-**STRG/CMD + Rücktaste:** Ganze Wörter löschen
+---
 
-Schneller navigieren mit Tastenkombinationen.
+### Schnellnavigation
+- **F2:** Ausgewählte Datei/Ordner umbenennen  
+- **STRG/CMD + L:** Zur Adressleiste im Browser oder Explorer springen  
+- **STRG/CMD + Pfeiltasten:** Zwischen Wörtern springen  
+- **STRG/CMD + Rücktaste:** Ganze Wörter löschen  
+- **STRG/CMD + SHIFT + N:** Neues privates/Inkognito-Fenster im Browser öffnen  
+- **STRG/CMD + SHIFT + J:** Entwickler-Tools im Browser aufrufen
 
-💡 **Pro-Tipp:** Dateipfade können mit STRG/CMD + C kopiert werden, wenn sie ausgewählt sind
+💡 **Pro-Tipp:** Du kannst ausgewählte Dateipfade mit **STRG/CMD + C** kopieren.
 
-## Markdown Kopieren/Einfügen
-Jetzt in Google Docs verfügbar!
-- Per Rechtsklick als Markdown kopieren/einfügen
-- Perfekt für Dokumentation und KI-Interaktionen
-- Behält Formatierung beim Einfügen in Markdown-Editoren
+---
 
-💡 **Pro-Tipp:** Ideal zum Kopieren von Codeblöcken und formatiertem Text aus KI-Chats
+### Fenster- und App-Management
+- **Windows Snap:** Windows-Taste + Pfeiltasten, um Fenster zu teilen/zu positionieren  
+- **Mac Mission Control:** Per Trackpad-Geste oder **CTRL + Pfeiltaste nach oben**  
+- **App-Wechsel (Windows):** ALT + TAB (+ SHIFT)  
+- **App-Wechsel (Mac):** CMD + TAB (+ SHIFT)  
 
-## Zwischenablage-Verlauf
-**Windows:** Windows-Taste + V  
-**Mac:** Alfred Zwischenablage-Manager
+💡 **Pro-Tipp:** Halte **ALT** bzw. **CMD** gedrückt, um eine Übersicht aller offenen Apps zu sehen.
 
-Zugriff auf den Verlauf der Zwischenablage.
+---
 
-💡 **Pro-Tipp:** Perfekt für komplexe Kopier-/Einfüge-Aufgaben
+### Markdown Kopieren/Einfügen
+- In Google Docs per Rechtsklick: „Als Markdown kopieren/einfügen“  
+- Ideal für Dokumentationen und KI-Interaktionen  
+- Behält in Markdown-Editoren die Formatierung bei
 
-## Tabs Wiederherstellen
-**Windows:** STRG + SHIFT + T  
-**Mac:** CMD + SHIFT + T
+💡 **Pro-Tipp:** Nützlich zum Kopieren sauber formatierter Texte aus KI-Chats.
 
-Kürzlich geschlossene Tabs wiederherstellen.
+---
 
-💡 **Pro-Tipp:** Funktioniert auch nach Browserneustart
+### Zwischenablage-Verlauf & OCR
+- **Windows:** Windows-Taste + V (muss oft erst in den Einstellungen aktiviert werden)  
+- **Mac:** Alfred oder ein anderer Clipboard-Manager
 
-## Smart App-Wechsel
-**Windows:** ALT + TAB + SHIFT  
-**Mac:** CMD + TAB + SHIFT
+Zeigt den Verlauf deiner Zwischenablage an.
 
-In beide Richtungen zwischen Apps navigieren.
+💡 **Pro-Tipp (OCR):** Mit **Adobe Acrobat Reader**, **OneNote** oder anderen Tools kannst du Text aus PDFs und Bildern extrahieren. Auf dem Mac beherrscht „Vorschau“ (Preview) in einigen Versionen ebenfalls OCR. Anschließend kannst du den erkannten Text direkt kopieren und in KI-Chats einfügen.
 
-💡 **Pro-Tipp:** ALT/CMD gedrückt halten um alle offenen Apps zu sehen
+---
 
-## Screenshot-Auswahl
-**Windows:** Windows-Taste + SHIFT + S  
-**Mac:** CMD + SHIFT + 4
+### Tabs Wiederherstellen
+- **Windows:** STRG + SHIFT + T  
+- **Mac:** CMD + SHIFT + T  
 
-Bildschirmbereich auswählen und aufnehmen.
+Öffnet zuletzt geschlossene Tabs erneut.
 
-💡 **Pro-Tipp:** Wird automatisch in die Zwischenablage kopiert
+💡 **Pro-Tipp:** Funktioniert häufig sogar nach einem Browserneustart.
+
+---
+
+### Screenshot-Auswahl
+- **Windows:** Windows-Taste + SHIFT + S  
+- **Mac:** CMD + SHIFT + 4  
+
+Erstellt einen Screenshot eines ausgewählten Bereichs.
+
+💡 **Pro-Tipp:** Der Screenshot wird automatisch in die Zwischenablage kopiert.
+
+---
+
+### KI-Chat Produktivität
+- **Shift + Enter:** Neue Zeile einfügen, ohne die Nachricht sofort zu senden  
+- **Ganze Antwort oder nur Code kopieren:** Viele KI-Chatbots (z.B. ChatGPT) bieten einen Kopier-Button, mit dem du den gesamten Inhalt oder Codeblöcke als Markdown (inkl. ```…```) kopierst  
+- **Antwort neu generieren:** (z.B. „Regenerate response“ bei ChatGPT) für alternative Vorschläge  
+- **Verlauf speichern/exportieren:** Häufig kannst du komplette Chats als Text oder PDF herunterladen  
+💡 **Pro-Tipp (Datenschutz):** Kopiere niemals vertrauliche Daten in öffentliche KI-Tools!
 
 ---
 
 <a id="en"></a>
-# Digital Life Hacks Cheat Sheet
-## Clean Paste
+
+### Clean Paste
 **Windows:** CTRL + SHIFT + V  
-**Mac:** CMD + SHIFT + V
+**Mac:** CMD + SHIFT + V  
+Pastes text without formatting.
 
-Paste text without formatting.
+💡 **Pro tip:** Essential for consistent formatting in documents.  
+⚠️ **Note:** On Windows, you may need to enable clipboard history in Settings.
 
-💡 **Pro tip:** Essential for maintaining document consistency
+---
 
-## Quick Selection
-**Double-click:** Select a single word  
-**Triple-click:** Select entire paragraph  
+### Quick Selection
+- **Double-click:** Select a single word  
+- **Triple-click:** Select an entire paragraph  
 
-💡 **Pro tip:** Use Shift key for extended selection control
+💡 **Pro tip:** Hold **Shift** to expand or adjust your selection.
 
-## Quick Navigation
-**F2:** Rename selected file/folder  
-**CTRL/CMD + L:** Jump to browser address bar & Windows Explorer path  
-**CTRL/CMD + Arrow:** Jump between words  
-**CTRL/CMD + Backspace:** Delete whole words
+---
 
-Navigate faster with keyboard shortcuts.
+### Quick Navigation
+- **F2:** Rename the selected file/folder  
+- **CTRL/CMD + L:** Jump to the address bar in your browser or file explorer  
+- **CTRL/CMD + Arrow keys:** Move between words  
+- **CTRL/CMD + Backspace:** Delete whole words  
+- **CTRL/CMD + SHIFT + N:** Open a new private/incognito browser window  
+- **CTRL/CMD + SHIFT + J:** Open browser developer tools
 
-💡 **Pro tip:** File paths can be copied with CTRL/CMD + C when selected
+💡 **Pro tip:** You can copy selected file paths with **CTRL/CMD + C**.
 
-## Markdown Copy/Paste
-Now available in Google Docs!
-- Right-click to copypaste as Markdown
-- Perfect for documentation and AI interactions
-- Preserves formatting when pasting into Markdown editors
+---
 
-💡 **Pro tip:** Great for copying code blocks and formatted text from AI chats
+### Window & App Management
+- **Windows Snap:** Windows key + Arrow keys to tile or position windows  
+- **Mac Mission Control:** Use a trackpad gesture or **CTRL + Up Arrow**  
+- **App Switch (Windows):** ALT + TAB (+ SHIFT)  
+- **App Switch (Mac):** CMD + TAB (+ SHIFT)
 
-## Clipboard History
-**Windows:** Windows Key + V  
-**Mac:** Alfred Clipboard Manager
+💡 **Pro tip:** Hold **ALT** or **CMD** to see all open apps at a glance.
+
+---
+
+### Markdown Copy/Paste
+- Right-click in Google Docs to “Copy/Paste as Markdown”  
+- Great for documentation or AI interactions  
+- Preserves formatting in Markdown editors
+
+💡 **Pro tip:** Handy for copying nicely formatted text from AI chats.
+
+---
+
+### Clipboard History & OCR
+- **Windows:** Windows key + V (must be enabled in Settings)  
+- **Mac:** Use Alfred or another clipboard manager
 
 Access your clipboard history.
 
-💡 **Pro tip:** Perfect for complex copy-paste tasks
-
-## Restore Tabs
-**Windows:** CTRL + SHIFT + T  
-**Mac:** CMD + SHIFT + T
-
-Restore recently closed tabs.
-
-💡 **Pro tip:** Works even after browser restart
-
-## Smart App Switch
-**Windows:** ALT + TAB + SHIFT  
-**Mac:** CMD + TAB + SHIFT
-
-Navigate between apps in both directions.
-
-💡 **Pro tip:** Hold ALT/CMD to see all open apps
-
-## Screenshot Selection
-**Windows:** Windows Key + SHIFT + S  
-**Mac:** CMD + SHIFT + 4
-
-Capture selected screen area.
-
-💡 **Pro tip:** Automatically copies to clipboard
+💡 **Pro tip (OCR):** Tools like **Adobe Acrobat Reader**, **OneNote**, or others can extract text from PDFs and images. On Mac, Preview supports OCR in some versions. You can then copy that text right into AI chats.
 
 ---
+
+### Restore Tabs
+- **Windows:** CTRL + SHIFT + T  
+- **Mac:** CMD + SHIFT + T  
+
+Reopens your most recently closed tabs.
+
+💡 **Pro tip:** Often works even after restarting your browser.
+
+---
+
+### Screenshot Selection
+- **Windows:** Windows key + SHIFT + S  
+- **Mac:** CMD + SHIFT + 4  
+
+Captures a selected area of your screen.
+
+💡 **Pro tip:** The screenshot is automatically copied to your clipboard.
+
+---
+
+### AI Chat Productivity
+- **Shift + Enter:** Insert a new line without sending the message  
+- **Copy entire response or only code:** Many AI chatbots (e.g., ChatGPT) have a copy button so you can grab all content or code blocks as Markdown (including ```…```)  
+- **Regenerate response:** (e.g., “Regenerate response” in ChatGPT) to get alternative versions  
+- **Save/export conversation:** Often you can download the entire chat as text or PDF  
+💡 **Pro tip (Privacy):** Never paste sensitive or confidential data into public AI tools!
+
+---
+
 *Created with ❤️ for productivity enthusiasts by [DH Craft](https://dhcraft.org)*
+
