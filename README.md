@@ -46,12 +46,12 @@ Fügt Text ohne Formatierung ein.
 
 ---
 
-### Markdown Kopieren/Einfügen
+### [Markdown](https://www.markdownguide.org/cheat-sheet/) Kopieren/Einfügen
 - In Google Docs per Rechtsklick: „Als Markdown kopieren/einfügen“  
 - Ideal für Dokumentationen und KI-Interaktionen  
-- Behält in Markdown-Editoren die Formatierung bei
+- Behält in Markdown-Editoren die Formatierung bei, z.b. dieses Dokument verwendet Markdown
 
-💡 **Pro-Tipp:** Nützlich zum Kopieren sauber formatierter Texte aus KI-Chats.
+💡 **Pro-Tipp:** KI Tools finden sich in einem mit Markdown strukturierten Text besser zurecht.
 
 ---
 
@@ -87,9 +87,10 @@ Erstellt einen Screenshot eines ausgewählten Bereichs.
 
 ### KI-Chat Produktivität
 - **Shift + Enter:** Neue Zeile einfügen, ohne die Nachricht sofort zu senden  
-- **Ganze Antwort oder nur Code kopieren:** Viele KI-Chatbots (z.B. ChatGPT) bieten einen Kopier-Button, mit dem du den gesamten Inhalt oder Codeblöcke als Markdown (inkl. ```…```) kopierst  
+- **Ganze Antwort oder nur Code kopieren:** Viele KI-Chatbots (z.B. ChatGPT) bieten einen Kopier-Button, mit dem du den gesamten Inhalt oder Codeblöcke als [Markdown](https://www.markdownguide.org/cheat-sheet/) kopierst  
 - **Antwort neu generieren:** (z.B. „Regenerate response“ bei ChatGPT) für alternative Vorschläge  
-- **Verlauf speichern/exportieren:** Häufig kannst du komplette Chats als Text oder PDF herunterladen  
+- **Verlauf speichern/exportieren:** Häufig kannst du komplette Chats als Text oder PDF herunterladen
+  
 💡 **Pro-Tipp (Datenschutz):** Kopiere niemals vertrauliche Daten in öffentliche KI-Tools!
 
 ---
@@ -136,12 +137,12 @@ Pastes text without formatting.
 
 ---
 
-### Markdown Copy/Paste
+### [Markdown](https://www.markdownguide.org/cheat-sheet/) Copy/Paste
 - Right-click in Google Docs to “Copy/Paste as Markdown”  
 - Great for documentation or AI interactions  
-- Preserves formatting in Markdown editors
+- Preserves formatting in Markdown editors, e.g. this document uses Markdown
 
-💡 **Pro tip:** Handy for copying nicely formatted text from AI chats.
+💡 **Pro tip:** AI tools navigate more easily through text structured with Markdown formatting.
 
 ---
 
@@ -177,9 +178,10 @@ Captures a selected area of your screen.
 
 ### AI Chat Productivity
 - **Shift + Enter:** Insert a new line without sending the message  
-- **Copy entire response or only code:** Many AI chatbots (e.g., ChatGPT) have a copy button so you can grab all content or code blocks as Markdown (including ```…```)  
+- **Copy entire response or only code:** Many AI chatbots (e.g., ChatGPT) have a copy button so you can grab all content or code blocks as [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - **Regenerate response:** (e.g., “Regenerate response” in ChatGPT) to get alternative versions  
-- **Save/export conversation:** Often you can download the entire chat as text or PDF  
+- **Save/export conversation:** Often you can download the entire chat as text or PDF
+    
 💡 **Pro tip (Privacy):** Never paste sensitive or confidential data into public AI tools!
 
 ---
